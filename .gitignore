@@ -48,6 +48,15 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
+# Quarto build output
+/_site/
+_site/
+*/_site/
+*.qmd.ipynb
+
+
 # doc Folder
 doc/*
 /.quarto/
+
+doc/*
