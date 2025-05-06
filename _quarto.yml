@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: doc
+
+website:
+  title: "IPBES_guide_assessment_production"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
