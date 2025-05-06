@@ -1,0 +1,1 @@
+Sitemap: https://IPBES-Data.github.io/IPBES_guide_assessment_production/sitemap.xml
