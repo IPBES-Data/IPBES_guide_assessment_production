@@ -1,29 +1,25 @@
-name: Render and Publish Quarto Website
-
 on:
+  workflow_dispatch:
   push:
-    branches: [main] # or your default working branch
-  workflow_dispatch: # allow manual trigger
+    branches: main
+
+name: Quarto Publish
 
 jobs:
-  render-publish:
+  build-deploy:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
+      - name: Check out repository
         uses: actions/checkout@v4
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          version: latest
 
-      - name: Render site
-        run: quarto render
-
-      - name: Publish to web branch
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Render and Publish
+        uses: quarto-dev/quarto-actions/publish@v2
         with:
-          deploy_key: ${{ secrets.DEPLOY_KEY }}
-          publish_branch: web
-          publish_dir: ./doc # or whatever your output-dir is
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
