@@ -9,7 +9,16 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - text: "Stage 1"
+        file: Stage_1.qmd
+      - text: "Stage 2"
+        file: Stage_2.qmd
+      - text: "Stage 3"
+        file: Stage_3.qmd
+      - text: "Stage 4"
+        file: Stage_4.qmd
+      - text: "Complete"
+        file: Final text - IPBES guide for assessments - M.NS18.6.qmd
 format:
   html:
     theme:

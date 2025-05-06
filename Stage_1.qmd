@@ -1,0 +1,173 @@
+---
+title: "Stage_1"
+format: html
+---
+
+2.1 Stage 1: Requests and scope
+
+> An assessment begins upon receiving a request from a government (or
+> when receiving inputs and suggestions from a stakeholder), which is
+> then considered by the Plenary. The procedure for receiving and
+> prioritizing requests represents the first stage in defining a new
+> work programme. It has taken place once so far, in order to define the
+> first work programme of IPBES, for 2014-2018. A new call for requests
+> will take place towards the end of each work programme. The first set
+> of requests led the Plenary to carry out a set of thematic,
+> methodological and regional assessments, as well as a global
+> assessment.
+>
+> *Note: The mechanism described in the following section was used for
+> the production of the first work programme. The Plenary may decide,
+> when building the second IPBES work programme, to make a number of
+> adjustments based on lessons learnt. This means that some of the steps
+> described below might be modified as lessons are learnt.*
+
+2.1.1 Requests by members and observers
+
+> The first stage in the IPBES assessment process is for requests,
+> inputs and suggestions to be submitted to the IPBES Secretariat no
+> later than six months before an IPBES Plenary.[^1] Submissions should
+> include information on:
+
+- The relevance of the objective, function and work programme of the
+  Platform;
+
+- The urgency of action in light of imminent risks caused by issues
+  addressed in the action;
+
+- The relevance of the requested action in addressing specific policies
+  or processes;
+
+- The geographic scope of the requested action, as well as issues to be
+  covered by such action;
+
+- The anticipated level of complexity of the issues to be addressed by
+  the requested action;
+
+- Any previous work and existing initiatives of a similar nature and
+  evidence of remaining gaps, such as the absence or limited
+  availability of information and tools to address the issues, and
+  reasons why the Platform is best suited to take action;
+
+- The availability of scientific literature and expertise for the
+  Platform to undertake the requested action;
+
+- The scale of the potential impacts and the potential beneficiaries of
+  the requested action;
+
+- The requirements for financial and human resources, and the potential
+  duration of the requested action; and
+
+- An identification of priorities within the multiple submitted
+  requests.
+
+The list of requests, inputs and suggestions are compiled by the IPBES
+secretariat for prioritization by the Multidisciplinary Expert Panel
+(MEP) in consultation with the Bureau. The MEP will then produce a
+report for consideration by the Plenary, also depicting how the
+assessments will be integrated into the IPBES work programme.
+
+2.1.2 Consideration by the MEP and Bureau
+
+> As part of the preliminary evaluation and prioritization process, the
+> MEP and Bureau will undertake an initial scoping of an assessment,
+> including examining feasibility and estimated costs. This initial
+> scoping study may also contain pre-scoping material, usually provided
+> by the body making the original request for the assessment. Using this
+> information, the MEP, in conjunction with the Bureau, will prepare a
+> report containing a prioritized list of requested assessments to be
+> submitted to the Plenary. The report will contain an analysis of the
+> scientific and policy relevance of the requests, including the
+> implication of the requests for the Platform's work programme and
+> resources requirements.
+
+2.1.3 Consideration by the Plenary
+
+The Plenary has two options to consider: approve the scoping report and
+initiate the assessment (based on an initial scoping by the MEP) or
+request a detailed scoping. Initiation of the assessment can go ahead
+without the detailed scoping study and proceed to the second stage of
+the assessment process without the Plenary needing to consider the
+outcome of a more detailed scoping exercise (see option B, Figure 2.2).
+In a majority of cases, the Plenary will request a detailed scoping
+before agreeing to undertake an assessment (See option A, Figure 2.2).
+The Plenary may delay the start of the second stage or initiate the
+assessment immediately based on the Scoping Report.
+
+![cid:860A692B-0696-4A30-ACBF-CCDE079424CF@home](images/Stage_1/media/image1.jpeg){width="6.0in"
+height="7.141755249343832in"}
+
+> 2.1.4 Scoping by the MEP, Bureau and experts
+
+If the Plenary decides to proceed with detailed scoping of an assessment
+then a call for nomination of experts to assist in the scoping process
+is made (see Figure 2.2). A detailed scoping document, overseen by the
+MEP and Bureau, is developed by a group of experts. Typically, a meeting
+is convened where the scoping document is developed. An electronic
+consultation can also take place with experts self-selecting themselves
+to participate.
+
+A detailed scoping document will usually consist of the following
+information:
+
+1.  The scope (including policy relevant questions);
+
+2.  Geographic boundaries of the assessment (if relevant);
+
+3.  The rationale (including the potential impact of the assessment);
+
+4.  The assessment's utility (including who the end users of the
+    assessments are);
+
+5.  Assumptions;
+
+6.  Methodological approaches;
+
+7.  Chapter outlines (including a short paragraph on the potential
+    content for each chapter);
+
+8.  Key datasets (this is not an exhaustive list but rather key datasets
+    which should be mobilized);
+
+9.  Strategic partnerships and initiatives (this is not an exhaustive
+    list but could either highlight the types of partnerships which will
+    be required to deliver the assessment or include a short list key
+    partners);
+
+10. The operational structure (including if a technical support unit
+    will be required);
+
+11. The process and timetable;
+
+12. A cost estimate;
+
+13. Communication and outreach; and
+
+14. Capacity-building (highlights what capacity may be needed to
+    undertake the assessment).
+
+Members and other stakeholders of IPBES can then be invited to review
+and comment on the draft detailed scoping report. Based on the results
+of the detailed scoping exercise and comments received from members of
+the Platform and other stakeholders, the MEP, in consultation with the
+Bureau, then decides whether to proceed with the submission of the
+scoping report to the Plenary.
+
+> 2.1.5 Consideration by the Plenary
+
+Once finalized, the draft detailed scoping document is presented to the
+Plenary, who examines it paragraph by paragraph. The Plenary can then
+decide between the following options:
+
+1.  Approve the assessment and request its undertaking (including
+    related budget and timeline).
+
+2.  Approve the assessment but delay its undertaking.
+
+3.  Not approve and request further scoping.
+
+4.  Not approve.
+
+[^1]:
+    > The Bureau may consider requests after the deadline on an
+    > extraordinary basis.

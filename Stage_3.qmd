@@ -1,0 +1,91 @@
+---
+title: "Stage_3"
+format: html
+---
+
+3.  Stage 3: Approval/acceptance
+
+> **The draft SPM and chapters** are presented by the secretariat to the
+> Plenary for its consideration. Governments are given the opportunity
+> to submit written comments to the secretariat prior to the Plenary.
+> These comments assist the assessment experts in preparing for the
+> Plenary but do not result in a revised draft.
+>
+> 2.3.1 Acceptance of reports by the Plenary
+>
+> An assessment report is comprised of an SPM, which the Plenary will
+> approve line by line, and a set of chapters (sometimes referred to as
+> the technical report), which only the Plenary will accept. Governments
+> are given the opportunity to submit written comments to the
+> secretariat prior to the Plenary (8-2 weeks before). These comments
+> assist the assessment experts in preparing for the Plenary but do not
+> result in a revised draft. The set of chapters presented by the
+> secretariat to the Plenary are prepared and reviewed as discussed
+> above. While the large volume and technical detail of this material
+> places practical limitations upon the extent to which changes to the
+> reports can be made at the Plenary sessions, 'acceptance' signifies
+> the view of the Plenary that this purpose has been achieved. The
+> content of the chapters is the responsibility of the coordinating lead
+> authors and is subject to Plenary 'acceptance'. After 'acceptance' by
+> the Plenary, chapters are edited by the authors to reflect the changes
+> made by the Plenary to the SPM, and thus ensure full consistency
+> between the SPM and the underlying chapters and their executive
+> summaries. Reports accepted by the Plenary will then be formally and
+> prominently described on the front, and on other introductory covers,
+> as a report accepted by IPBES.
+>
+> 2.3.2 Approval of SPM by the Plenary
+>
+> The SPMs are normally discussed line by line in a contact group.[^1]
+> It is then presented to the Plenary for consideration and approval in
+> the presence of the co-chairs and some of the experts of the
+> assessment, who will be able to address the questions of the Plenary
+> and discuss whether proposed changes are compatible with the science
+> contained in the report. Sessions of the Plenary where SPMs are being
+> discussed are open to observers but are closed to the media, including
+> social media.
+>
+> The key actors in this stage are:
+
+- Governments, who through their representatives consider the drafts in
+  dialogue with each other and the assessment experts and observers at
+  the Plenary;
+
+- Members of the Bureau who co-chair the contact groups under the
+  Plenary where the drafts are considered;
+
+- Assessment co-chairs and CLAs who are present on the podium to explain
+  and defend the scientific basis for the findings and provide
+  scientific clarification and advice on any reformulation of the
+  findings under consideration; and
+
+- the IPBES chair who chairs the Plenary.
+
+> The SPM will then be formally and prominently described as a report of
+> the Intergovernmental Science-Policy Platform on Biodiversity and
+> Ecosystem Services.
+
+  -----------------------------------------------------------------------
+  **Box 2.6** Addressing possible errors and complaints
+  -----------------------------------------------------------------------
+  The IPBES review processes should ensure that errors are eliminated
+  well before the publication of the Platform reports and technical
+  papers. However, if a reader of an agreed Platform report, accepted SPM
+  or finalized technical paper finds a possible error (e.g., a
+  miscalculation or omission of critically important information) or has
+  a complaint relating to a report or technical paper (e.g., a claim to
+  authorship, or an issue of possible plagiarism or the falsification of
+  data) the issue should be brought to the attention of the secretariat,
+  which will implement the process for error correction or complaint
+  resolution as set out in decision IPBES-2/3.[^2]
+
+  -----------------------------------------------------------------------
+
+[^1]: Contact groups co-chaired by Bureau members may be established by
+    the Plenary to address issues raised and to revise the SPMs
+    accordingly for further consideration by the Plenary (IPBES/4/19,
+    p.7).
+
+[^2]: Decision IPBES-2/3: Procedures for the preparation of the
+    Platform's deliverables.
+    https://www.ipbes.net/document-library-catalogue/decision-ipbes-23
