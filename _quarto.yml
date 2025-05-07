@@ -3,12 +3,16 @@ project:
   output-dir: doc
 
 website:
-  title: "IPBES_guide_assessment_production"
+  title: "The IPBES Guide on the production of assessments"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - text: TODOs
+        file: todos.qmd
       - about.qmd
+      - text: Introduction
+        file: Introduction.qmd
       - text: "Stage 1"
         file: Stage_1.qmd
       - text: "Stage 2"
@@ -18,7 +22,7 @@ website:
       - text: "Stage 4"
         file: Stage_4.qmd
       - text: "Complete"
-        file: Final text - IPBES guide for assessments - M.NS18.6.qmd
+        file: Complete.qmd
 format:
   html:
     theme:

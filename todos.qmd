@@ -1,0 +1,27 @@
+
+---
+title: "TODOs"
+format: html
+---
+
+
+# Please note - you can click the boxes in the website, but these will not stick, i.e. wll be reset to the stat in the qmd file!
+
+
+## Content of Website
+- [ ] Clean up, including headers, footnotes, Boxes, Tables captions, Figures captions, 
+    - [ ] Index_1.qmd
+    - [x] Introduction_1.qmd (rmk)
+    - [ ] Stage_1.qmd
+    - [ ] Stage_2.qmd
+    - [ ] Stage_3.qmd
+    - [ ] Stage_4.qmd
+- [ ] Complete the About page with everything needed
+- [ ] Checklist to be ticked off
+    - [ ] printed?
+    - [ ] as website?
+    
+## Format of Website
+- [ ] Do we need a unified List of Tables, Figures and Boxes?
+- [ ] Format of website needs to be decided
+- [ ] Print Versions?

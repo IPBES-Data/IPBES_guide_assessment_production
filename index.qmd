@@ -1,7 +1,19 @@
 ---
-title: "IPBES_guide_assessment_production"
+title: "The IPBES Guide on the production of assessments"
+subtitle: "Core version"
 ---
 
-This is a Quarto website.
+Add some basic info here on:
+- What this is
+- How to use it
+- How to contribute?
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+and other introduct=ory asopects.
+
+# The IPBES Guide on the production of assessments
+## [Introduction](introduction.html)
+## [Stage 1: Requests and scope](stage_1.html)
+## [Stage 2: Expert evaluation of the state of knowledge](stage_2.html)
+## [Stage 3: Approval/acceptance](stage_3.html)
+## [Stage 4: Use of the assessment findings](stage_4.html)
+
