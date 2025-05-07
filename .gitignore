@@ -60,3 +60,5 @@ doc/*
 /.quarto/
 
 doc/*
+md/
+Stage_1_files/
