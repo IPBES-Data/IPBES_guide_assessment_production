@@ -9,7 +9,7 @@ An assessment begins upon receiving a request from a government (or when receivi
 
 # 1 Requests by members and observers
 
-The first stage in the IPBES assessment process is for requests, inputs and suggestions to be submitted to the IPBES Secretariat no later than six months before an IPBES Plenary.[^1] Submissions should include information on:
+The first stage in the IPBES assessment process is for requests, inputs and suggestions to be submitted to the IPBES Secretariat no later than six months before an IPBES Plenary.^[The Bureau may consider requests after the deadline on an extraordinary basis.] Submissions should include information on:
 
 - The relevance of the objective, function and work programme of the Platform;
 - The urgency of action in light of imminent risks caused by issues addressed in the action;
@@ -39,21 +39,21 @@ height="7.141755249343832in"}
 
 If the Plenary decides to proceed with detailed scoping of an assessment then a call for nomination of experts to assist in the scoping process is made (see Figure 2.2). A detailed scoping document, overseen by the MEP and Bureau, is developed by a group of experts. Typically, a meeting is convened where the scoping document is developed. An electronic consultation can also take place with experts self-selecting themselves to participate.
 
-A detailed scoping document will usually consist of the following information:
-1.  The scope (including policy relevant questions);
-2.  Geographic boundaries of the assessment (if relevant);
-3.  The rationale (including the potential impact of the assessment);
-4.  The assessment's utility (including who the end users of the assessments are);
-5.  Assumptions;
-6.  Methodological approaches;
-7.  Chapter outlines (including a short paragraph on the potential content for each chapter);
-8.  Key datasets (this is not an exhaustive list but rather key datasets which should be mobilized);
-9.  Strategic partnerships and initiatives (this is not an exhaustive list but could either highlight the types of partnerships which will be required to deliver the assessment or include a short list key partners);
-10. The operational structure (including if a technical support unit will be required);
-11. The process and timetable;
-12. A cost estimate;
-13. Communication and outreach; and
-14. Capacity-building (highlights what capacity may be needed to undertake the assessment).
+A detailed scoping document will usually consist of the following information:\
+1.  The scope (including policy relevant questions);\
+2.  Geographic boundaries of the assessment (if relevant);\
+3.  The rationale (including the potential impact of the assessment);\
+4.  The assessment's utility (including who the end users of the assessments are);\
+5.  Assumptions;\
+6.  Methodological approaches;\
+7.  Chapter outlines (including a short paragraph on the potential content for each chapter);\
+8.  Key datasets (this is not an exhaustive list but rather key datasets which should be mobilized);\
+9.  Strategic partnerships and initiatives (this is not an exhaustive list but could either highlight the types of partnerships which will be required to deliver the assessment or include a short list key partners);\
+10. The operational structure (including if a technical support unit will be required);\
+11. The process and timetable;\
+12. A cost estimate;\
+13. Communication and outreach; and\
+14. Capacity-building (highlights what capacity may be needed to undertake the assessment).\
 
 Members and other stakeholders of IPBES can then be invited to review and comment on the draft detailed scoping report. Based on the results of the detailed scoping exercise and comments received from members of the Platform and other stakeholders, the MEP, in consultation with the Bureau, then decides whether to proceed with the submission of the scoping report to the Plenary.
 
@@ -65,6 +65,3 @@ Once finalized, the draft detailed scoping document is presented to the Plenary,
 2.  Approve the assessment but delay its undertaking.
 3.  Not approve and request further scoping.
 4.  Not approve.
-
-[^1]:
-The Bureau may consider requests after the deadline on an extraordinary basis.
