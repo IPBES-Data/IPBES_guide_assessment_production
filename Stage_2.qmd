@@ -5,14 +5,14 @@ format: html
 
 # 1. Nomination of experts by members and observers, and selection by the MEP
 
-The Rules of Procedure for IPBES set out the nomination process for the different roles within an IPBES assessment (see IPBES/2/17 and decision IPBES-4/3)[^1]^,^[^2] and are summarized in Table 1. The chair of IPBES, following the Plenary which requested the undertaking of an assessment, issues a call for nominations, explaining some of the requirements, particularly in terms of disciplines to cover all chapters of the assessment. Governments and observers are invited to nominate independent experts and fellows. From the nominations received, the MEP will select the report co-chairs, coordinating lead authors (CLA), lead authors (LA) and review editors (RE). The MEP will take the following into consideration when making these selections:
-- 80% of the selected experts should be nominated by governments and 20% by an organization.
-- The selection should reflect a range of scientific, technical and socio-economic views and expertise (e.g., natural and social sciences, scholars from the humanities, knowledge holders and experts in indigenous and local knowledge (ILK)).
-- The selection should have a good geographic representation, with appropriate representation of experts from developing and developed countries and countries with economies in transition.
-- The diversity of knowledge systems (including indigenous and local knowledge) should be represented.
-- The selection should aim at reaching gender balance.
+The Rules of Procedure for IPBES set out the nomination process for the different roles within an IPBES assessment (see IPBES/2/17 and decision IPBES-4/3)^[IPBES/2/17: Final report and decisions of the second session of the Plenary of IPBES. <https://www.ipbes.net/document-library-catalogue/ipbes217>. Decision IPBES-4/3: Rules and procedures for the operation of the platform. <https://www.ipbes.net/document-library-catalogue/decision-ipbes-43>] and are summarized in Table 1. The chair of IPBES, following the Plenary which requested the undertaking of an assessment, issues a call for nominations, explaining some of the requirements, particularly in terms of disciplines to cover all chapters of the assessment. Governments and observers are invited to nominate independent experts and fellows. From the nominations received, the MEP will select the report co-chairs, coordinating lead authors (CLA), lead authors (LA) and review editors (RE). The MEP will take the following into consideration when making these selections:\
+- 80% of the selected experts should be nominated by governments and 20% by an organization.\
+- The selection should reflect a range of scientific, technical and socio-economic views and expertise (e.g., natural and social sciences, scholars from the humanities, knowledge holders and experts in indigenous and local knowledge (ILK)).\
+- The selection should have a good geographic representation, with appropriate representation of experts from developing and developed countries and countries with economies in transition.\
+- The diversity of knowledge systems (including indigenous and local knowledge) should be represented.\
+- The selection should aim at reaching gender balance.\
 
-While every effort should be made to engage experts on the author teams from the relevant regions, with regards to chapters or assessments that deal with those specific regions, experts from other regions can be engaged if they can provide an important contribution to the assessment. If gaps in geographical, gender and expertise balances are identified, the co-chairs of the assessments, together with their respective CLAs, can identify potential additional experts to fill in these gaps. These experts will then be retroactively nominated following the approved procedure for **filling gaps** among groups of experts approved by the fourth session of the Plenary (see IPBES/4/19 and decision IPBES-4/3).[^3]^,^[^4]
+While every effort should be made to engage experts on the author teams from the relevant regions, with regards to chapters or assessments that deal with those specific regions, experts from other regions can be engaged if they can provide an important contribution to the assessment. If gaps in geographical, gender and expertise balances are identified, the co-chairs of the assessments, together with their respective CLAs, can identify potential additional experts to fill in these gaps. These experts will then be retroactively nominated following the approved procedure for **filling gaps** among groups of experts approved by the fourth session of the Plenary (see IPBES/4/19 and decision IPBES-4/3).^[IPBES/4/19: IPBES-4 Meeting Report. Page 107. <https://www.ipbes.net/document-library-catalogue/ipbes419>. Decision IPBES-4/3: Rules and procedures for the operation of the platform. Annex I. <https://www.ipbes.net/document-library-catalogue/decision-ipbes-43>]
 
 MEP or Bureau members that would like to participate as an expert in an assessment can be nominated for such a role, but they will have to resign from their duties as an MEP or Bureau member when accepting the new role.
 
@@ -51,7 +51,10 @@ MEP or Bureau members that would like to participate as an expert in an assessme
 |                         | enough, additional nominations can be      |
 |                         | initiated by the procedure for filling     |
 |                         | gaps among groups of experts (decision     |
-|                         | IPBES-4/3).[^5]                            |
+|                         | IPBES-4/3).^[Decision IPBES-4/3: Rules and |
+|                         | prodecures for the operation of the        |
+|                         | Platform. <https://www.ipbes.net/document- |
+|                         | library-catalogue/decision-ipbes-43>]      |
 |                         |                                            |
 |                         | Nominations will be compiled in lists that |
 | Coordinating Lead       | are made available to all Platform members |
@@ -695,7 +698,7 @@ The suggestions below are based on comments received during the Millennium Ecosy
 
 # 2 Conflicts of interest
 
-IPBES has put in place conflict of interest policy and implementation procedures to ensure that attention is paid to issues of independence and bias in order for there to be public confidence in the product and processes of IPBES.[^6] IPBES defines conflicts of interest and bias as any circumstances that could lead a reasonable person to either question an individual's objectivity or believe an unfair advantage has been created. The policy further sets out the difference between conflicts of interest and bias along with rules on how the policy should be applied when including the Committee of Conflicts of Interest. Within an IPBES assessment, all co-chairs, CLAs, LAs, REs, fellows and TSU members must sign a conflict of interest form.
+IPBES has put in place conflict of interest policy and implementation procedures to ensure that attention is paid to issues of independence and bias in order for there to be public confidence in the product and processes of IPBES.^[<https://www.ipbes.net/conflict-interest-policy-implementation-procedures>] IPBES defines conflicts of interest and bias as any circumstances that could lead a reasonable person to either question an individual's objectivity or believe an unfair advantage has been created. The policy further sets out the difference between conflicts of interest and bias along with rules on how the policy should be applied when including the Committee of Conflicts of Interest. Within an IPBES assessment, all co-chairs, CLAs, LAs, REs, fellows and TSU members must sign a conflict of interest form.
 
 # 3 Assessment by experts
 
@@ -1319,9 +1322,9 @@ Important points to recognize from the Pollination Assessment SPM:\
 - Further explanations for the key findings are provided via additional text about a paragraph in length each.\
 - The total word count is around 1,400.\
 - Each key finding includes a list of the chapter sections that contain the relevant literature/evidence supporting it.\
-- SPMs of methodological assessments may contain guidance points, which are lessons from best practices for building greater understanding and strengthening approaches to and making more effective use of methodological themes (see for example the Scenarios and Models Assessment SPM).[^7]\
-- In the context of IPBES, **policy support tools and methodologies** may be defined as approaches based on science and other knowledge systems that can inform, assist and enhance relevant decisions, policymaking and implementation at local, national, regional and global levels in order to protect nature, thereby promoting nature's contributions to people and a good quality of life (IPBES core glossary).[^8]\
-- Assessments may identify and assess the availability, effectiveness, practicability and replicability of current and emerging policy support tools and methodologies, as well as identify related gaps and needs[^9]\
+- SPMs of methodological assessments may contain guidance points, which are lessons from best practices for building greater understanding and strengthening approaches to and making more effective use of methodological themes (see for example the Scenarios and Models Assessment SPM).^[<https://www.ipbes.net/sites/default/files/downloads/pdf/SPM_Deliverable_3c.pdf>]\
+- In the context of IPBES, **policy support tools and methodologies** may be defined as approaches based on science and other knowledge systems that can inform, assist and enhance relevant decisions, policymaking and implementation at local, national, regional and global levels in order to protect nature, thereby promoting nature's contributions to people and a good quality of life (IPBES core glossary).^[The policy support tools and methodologies guidance is under development and may modify this section.]\
+- Assessments may identify and assess the availability, effectiveness, practicability and replicability of current and emerging policy support tools and methodologies, as well as identify related gaps and needs^[IPBES/6/INF/16: Information on work related to policy support tools and methodologies <https://www.ipbes.net/system/tdf/ipbes-6-inf-16\_-\_re-issued.pdf?file=1&type=node&id=16529>]\
 
 ## 7.2 Steps to developing an SPM
 
@@ -1331,7 +1334,7 @@ The first step in developing an SPM is the development of an executive summary f
 *Step 2: Identify the policy-relevant messages*
 One of the key differences between the executive summaries and the SPM is moving from the process of setting out technical facts to blending and synthesizing the findings from different chapters into policy-relevant messages. These messages aim to tell a short, coherent and compelling story on the state of knowledge (see Box 2.5).
 
-This stage is critical for fine-tuning the articulation of key findings and policy-relevant messages in the SPM, developing graphics, quality assurance of chapters, and ensuring consistency and traceability of confidence statements between the SPM and chapters. The drafts are process‑validated by the MEP and Bureau and are presented by the secretariat to the Plenary during Stage 3 -- approval and acceptance of the final assessment report.[^10]
+This stage is critical for fine-tuning the articulation of key findings and policy-relevant messages in the SPM, developing graphics, quality assurance of chapters, and ensuring consistency and traceability of confidence statements between the SPM and chapters. The drafts are process‑validated by the MEP and Bureau and are presented by the secretariat to the Plenary during Stage 3 -- approval and acceptance of the final assessment report.^[Validation of the Platform's reports is a process by which the MEP and Bureau provide their endorsement that the processes for the preparation of the Platform reports have been duly followed (IPBES/3/18, p.75).]
 
 The SPM for the IPBES assessments are approved line by line within the Plenary, therefore it is important to develop a succinct summary based upon the analysis of the assessment. Use confidence terminology to ensure that no ambiguity appears with regards to the messages and analyses in the SPM. Each finding should also contain a footnote with a reference back to the number of the section or sections of the main report that the finding is drawn from.
 
@@ -1343,23 +1346,3 @@ The SPM for the IPBES assessments are approved line by line within the Plenary, 
 :::
 
 *Source: The IPBES Pollinators, Pollination and Food Production Assessment- key message 12; findings from page XXXV of the SPM.*
-
-[^1]: IPBES/2/17: Final report and decisions of the second session of the Plenary of IPBES. <https://www.ipbes.net/document-library-catalogue/ipbes217>
-
-[^2]: Decision IPBES-4/3: Rules and procedures for the operation of the platform. <https://www.ipbes.net/document-library-catalogue/decision-ipbes-43>
-
-[^3]: IPBES/4/19: IPBES-4 Meeting Report. Page 107. <https://www.ipbes.net/document-library-catalogue/ipbes419>
-
-[^4]: Decision IPBES-4/3: Rules and procedures for the operation of the platform. Annex I. <https://www.ipbes.net/document-library-catalogue/decision-ipbes-43>
-
-[^5]: Decision IPBES-4/3: Rules and prodecures for the operation of the Platform. <https://www.ipbes.net/document-library-catalogue/decision-ipbes-43>
-
-[^6]: <https://www.ipbes.net/conflict-interest-policy-implementation-procedures>
-
-[^7]: <https://www.ipbes.net/sites/default/files/downloads/pdf/SPM_Deliverable_3c.pdf>
-
-[^8]: The policy support tools and methodologies guidance is under development and may modify this section.
-
-[^9]: IPBES/6/INF/16: Information on work related to policy support tools and methodologies <https://www.ipbes.net/system/tdf/ipbes-6-inf-16\_-\_re-issued.pdf?file=1&type=node&id=16529>
-
-[^10]: Validation of the Platform's reports is a process by which the MEP and Bureau provide their endorsement that the processes for the preparation of the Platform reports have been duly followed (IPBES/3/18, p.75).
