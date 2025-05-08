@@ -5,12 +5,13 @@ format: html
 
 # 1. Nomination of experts by members and observers, and selection by the MEP
 
-The Rules of Procedure for IPBES set out the nomination process for the different roles within an IPBES assessment (see IPBES/2/17 and decision IPBES-4/3)^[IPBES/2/17: Final report and decisions of the second session of the Plenary of IPBES. <https://www.ipbes.net/document-library-catalogue/ipbes217>. Decision IPBES-4/3: Rules and procedures for the operation of the platform. <https://www.ipbes.net/document-library-catalogue/decision-ipbes-43>] and are summarized in Table 1. The chair of IPBES, following the Plenary which requested the undertaking of an assessment, issues a call for nominations, explaining some of the requirements, particularly in terms of disciplines to cover all chapters of the assessment. Governments and observers are invited to nominate independent experts and fellows. From the nominations received, the MEP will select the report co-chairs, coordinating lead authors (CLA), lead authors (LA) and review editors (RE). The MEP will take the following into consideration when making these selections:\
-- 80% of the selected experts should be nominated by governments and 20% by an organization.\
-- The selection should reflect a range of scientific, technical and socio-economic views and expertise (e.g., natural and social sciences, scholars from the humanities, knowledge holders and experts in indigenous and local knowledge (ILK)).\
-- The selection should have a good geographic representation, with appropriate representation of experts from developing and developed countries and countries with economies in transition.\
-- The diversity of knowledge systems (including indigenous and local knowledge) should be represented.\
-- The selection should aim at reaching gender balance.\
+The Rules of Procedure for IPBES set out the nomination process for the different roles within an IPBES assessment (see IPBES/2/17 and decision IPBES-4/3)^[IPBES/2/17: Final report and decisions of the second session of the Plenary of IPBES. <https://www.ipbes.net/document-library-catalogue/ipbes217>. Decision IPBES-4/3: Rules and procedures for the operation of the platform. <https://www.ipbes.net/document-library-catalogue/decision-ipbes-43>] and are summarized in Table 1. The chair of IPBES, following the Plenary which requested the undertaking of an assessment, issues a call for nominations, explaining some of the requirements, particularly in terms of disciplines to cover all chapters of the assessment. Governments and observers are invited to nominate independent experts and fellows. From the nominations received, the MEP will select the report co-chairs, coordinating lead authors (CLA), lead authors (LA) and review editors (RE). The MEP will take the following into consideration when making these selections:
+
+- 80% of the selected experts should be nominated by governments and 20% by an organization.
+- The selection should reflect a range of scientific, technical and socio-economic views and expertise (e.g., natural and social sciences, scholars from the humanities, knowledge holders and experts in indigenous and local knowledge (ILK)).
+- The selection should have a good geographic representation, with appropriate representation of experts from developing and developed countries and countries with economies in transition.
+- The diversity of knowledge systems (including indigenous and local knowledge) should be represented.
+- The selection should aim at reaching gender balance.
 
 While every effort should be made to engage experts on the author teams from the relevant regions, with regards to chapters or assessments that deal with those specific regions, experts from other regions can be engaged if they can provide an important contribution to the assessment. If gaps in geographical, gender and expertise balances are identified, the co-chairs of the assessments, together with their respective CLAs, can identify potential additional experts to fill in these gaps. These experts will then be retroactively nominated following the approved procedure for **filling gaps** among groups of experts approved by the fourth session of the Plenary (see IPBES/4/19 and decision IPBES-4/3).^[IPBES/4/19: IPBES-4 Meeting Report. Page 107. <https://www.ipbes.net/document-library-catalogue/ipbes419>. Decision IPBES-4/3: Rules and procedures for the operation of the platform. Annex I. <https://www.ipbes.net/document-library-catalogue/decision-ipbes-43>]
 
@@ -684,6 +685,7 @@ MEP or Bureau members that would like to participate as an expert in an assessme
 <div class="boxed-title" id="box1-3">Box 2.1: Writing suggestions for assessment reports</div>
 
 The suggestions below are based on comments received during the Millennium Ecosystem Assessment peer review process:  
+
 - Discuss the problems and actions first. Any necessary background can come later in an appendix or in references to other sources.
 - Focus on definable measures/actions and avoid the passive voice. For example, policy professionals are likely to ignore statements like "there are reasons to believe some trends can be slowed or even reversed". If there are some opportunities for reversal, state precisely what we believe they are to the best of our knowledge.
 - Statements like "\...might have enormous ramifications for health and productivity\..." may seem to be strong because of the word "enormous", but they are actually politically impotent because of the word "might." If data are used in the assessment, what do they say about what "is" happening? What can we recommend, based on the best available knowledge, about what actions would be effective?
@@ -708,6 +710,7 @@ assessment.
 The evaluation is undertaken by a geographically and gender balanced multidisciplinary group of independent experts selected on their credentials from among a group of nominees. Their interaction with government representatives, observers and stakeholders takes place at the initiation, scoping, reviewing and approval stages of the assessment.
 
 Typically, an IPBES assessment process will consist of the development of different drafts of the technical report:
+
 - Annotated outline
 - Zero order draft
 - First order draft (1^st^ order draft)
@@ -1061,11 +1064,12 @@ It is not mandatory to apply confidence terms throughout the main text of the as
 
 ## 6.3 Qualitative assessment of confidence
 
-This section discusses the process and language that all author teams must apply to evaluate and communicate confidence qualitatively. The following factors should be considered to evaluate the validity of the message or finding: the type, quantity, quality and consistency of evidence (the existing peer‑reviewed literature and grey literature, etc.), as well as the level of agreement (the level of concurrence in the data, literature and amongst experts, not just across the author team). The author team's expert judgement on the level of evidence and agreement should then be used to apply a confidence term as described in Figure 2.4:\
-- ***Inconclusive*** -- existing as or based on a suggestion or speculation; no or limited evidence.\
-- ***Unresolved*** -- multiple independent studies exist but conclusions do not agree.\
-- ***Established but incomplete*** -- general agreement although only a limited number of studies exist but with no comprehensive synthesis, or the studies that do exist imprecisely address the question.\
-- ***Well established*** -- comprehensive meta-analysis or other syntheses/multiple independent studies that agree.\
+This section discusses the process and language that all author teams must apply to evaluate and communicate confidence qualitatively. The following factors should be considered to evaluate the validity of the message or finding: the type, quantity, quality and consistency of evidence (the existing peer‑reviewed literature and grey literature, etc.), as well as the level of agreement (the level of concurrence in the data, literature and amongst experts, not just across the author team). The author team's expert judgement on the level of evidence and agreement should then be used to apply a confidence term as described in Figure 2.4:
+
+- ***Inconclusive*** -- existing as or based on a suggestion or speculation; no or limited evidence.
+- ***Unresolved*** -- multiple independent studies exist but conclusions do not agree.
+- ***Established but incomplete*** -- general agreement although only a limited number of studies exist but with no comprehensive synthesis, or the studies that do exist imprecisely address the question.
+- ***Well established*** -- comprehensive meta-analysis or other syntheses/multiple independent studies that agree.
 
 ![cid:BEEEA707-B80E-4341-8E3B-BF017448D6DA@home](images/Stage_2/media/image3.jpeg){width="6.6875in"
 height="4.577325021872266in"}
@@ -1075,9 +1079,10 @@ height="4.577325021872266in"}
 Note: 'well-established' can be further subdivided into 'very well established' and 'virtually certain'.\
 *Source: IPBES, 2016.*
 
-The ***well-established*** box in Figure 2.4 may be further subdivided in order to give author teams the flexibility to emphasize key messages and findings that the author team have very high confidence in:\
-- ***Very well established*** -- very comprehensive evidence base and very low amount of disagreement.\
-- ***Virtually certain*** -- very robust data covering multiple temporal and spatial scales and almost no disagreement.\
+The ***well-established*** box in Figure 2.4 may be further subdivided in order to give author teams the flexibility to emphasize key messages and findings that the author team have very high confidence in:
+
+- ***Very well established*** -- very comprehensive evidence base and very low amount of disagreement.
+- ***Virtually certain*** -- very robust data covering multiple temporal and spatial scales and almost no disagreement.
 
 The qualitative confidence terms discussed in this section should not be interpreted probabilistically and are distinct from "statistical significance".
 
@@ -1298,11 +1303,12 @@ A summary for policymakers (SPM) is a short document that highlights the main me
 
 :::
 
-The key messages of the SPM aim to:\
+The key messages of the SPM aim to:
+
 - tell a short, coherent and compelling story on the state of knowledge aimed at non‑technical decision-makers and the public;
-- convey illustrative and striking perspectives, facts and numbers from the assessment;\
-- set the stage for the negotiation of the SPM at the IPBES Plenary; and\
-- serve as a key source for media and outreach material once approved by the Plenary.\
+- convey illustrative and striking perspectives, facts and numbers from the assessment;
+- set the stage for the negotiation of the SPM at the IPBES Plenary; and
+- serve as a key source for media and outreach material once approved by the Plenary.
 
 These messages are followed by a set of main findings categorized under a set of headings (approximately 10,000 words max). They tell a comprehensive story, based on the state of knowledge specific to the scoping document, and are aimed at non-technical decision-makers but with higher levels of technical yet non-jargon specificity compared to the top key messages (see Box 2.4).
 
@@ -1310,21 +1316,23 @@ Each finding is formulated in one or two bolded sentences, substantiated and sup
 
 The responsibility for preparing the first and revised drafts of the SPMs lies with the report co-chairs and an appropriate representation of CLAs and LAss, with a review process overseen by the MEP and Bureau.
 
-The features of an SPM are that it:\
-- sets out policy relevant messages from the assessment while not being policy prescriptive, and\
+The features of an SPM are that it:
+
+- sets out policy relevant messages from the assessment while not being policy prescriptive, and
 - builds on the executive summaries (key findings) from each chapter from the technical assessment report.
 
 The development of an SPM is an iterative process as explained in the following section . You will need to make sure that the information in each chapter's executive summary underpins the messages set out in the SPM and that the analyses in the assessment chapters support the findings in the executive summaries. Fundamentally, no information, data or knowledge should appear in the SPM if it does not appear in the technical assessment report.
 
-Important points to recognize from the Pollination Assessment SPM:\
-- There are a total of 11 key findings that are short and indicated in bold.\
-- Each key finding comes with a confidence language statement (in parentheses).\
-- Further explanations for the key findings are provided via additional text about a paragraph in length each.\
-- The total word count is around 1,400.\
-- Each key finding includes a list of the chapter sections that contain the relevant literature/evidence supporting it.\
-- SPMs of methodological assessments may contain guidance points, which are lessons from best practices for building greater understanding and strengthening approaches to and making more effective use of methodological themes (see for example the Scenarios and Models Assessment SPM).^[<https://www.ipbes.net/sites/default/files/downloads/pdf/SPM_Deliverable_3c.pdf>]\
-- In the context of IPBES, **policy support tools and methodologies** may be defined as approaches based on science and other knowledge systems that can inform, assist and enhance relevant decisions, policymaking and implementation at local, national, regional and global levels in order to protect nature, thereby promoting nature's contributions to people and a good quality of life (IPBES core glossary).^[The policy support tools and methodologies guidance is under development and may modify this section.]\
-- Assessments may identify and assess the availability, effectiveness, practicability and replicability of current and emerging policy support tools and methodologies, as well as identify related gaps and needs^[IPBES/6/INF/16: Information on work related to policy support tools and methodologies <https://www.ipbes.net/system/tdf/ipbes-6-inf-16\_-\_re-issued.pdf?file=1&type=node&id=16529>]\
+Important points to recognize from the Pollination Assessment SPM:
+
+- There are a total of 11 key findings that are short and indicated in bold.
+- Each key finding comes with a confidence language statement (in parentheses).
+- Further explanations for the key findings are provided via additional text about a paragraph in length each.
+- The total word count is around 1,400.
+- Each key finding includes a list of the chapter sections that contain the relevant literature/evidence supporting it.
+- SPMs of methodological assessments may contain guidance points, which are lessons from best practices for building greater understanding and strengthening approaches to and making more effective use of methodological themes (see for example the Scenarios and Models Assessment SPM).^[<https://www.ipbes.net/sites/default/files/downloads/pdf/SPM_Deliverable_3c.pdf>]
+- In the context of IPBES, **policy support tools and methodologies** may be defined as approaches based on science and other knowledge systems that can inform, assist and enhance relevant decisions, policymaking and implementation at local, national, regional and global levels in order to protect nature, thereby promoting nature's contributions to people and a good quality of life (IPBES core glossary).^[The policy support tools and methodologies guidance is under development and may modify this section.]
+- Assessments may identify and assess the availability, effectiveness, practicability and replicability of current and emerging policy support tools and methodologies, as well as identify related gaps and needs^[IPBES/6/INF/16: Information on work related to policy support tools and methodologies <https://www.ipbes.net/system/tdf/ipbes-6-inf-16\_-\_re-issued.pdf?file=1&type=node&id=16529>]
 
 ## 7.2 Steps to developing an SPM
 
