@@ -3,28 +3,15 @@ title: "Stage 1: Requests and scope"
 format: html
 ---
 
-2.1 Stage 1: Requests and scope
+# 2.1 Stage 1: Requests and scope
 
-> An assessment begins upon receiving a request from a government (or
-> when receiving inputs and suggestions from a stakeholder), which is
-> then considered by the Plenary. The procedure for receiving and
-> prioritizing requests represents the first stage in defining a new
-> work programme. It has taken place once so far, in order to define the
-> first work programme of IPBES, for 2014-2018. A new call for requests
-> will take place towards the end of each work programme. The first set
-> of requests led the Plenary to carry out a set of thematic,
-> methodological and regional assessments, as well as a global
-> assessment.
->
-> *Note: The mechanism described in the following section was used for
-> the production of the first work programme. The Plenary may decide,
-> when building the second IPBES work programme, to make a number of
-> adjustments based on lessons learnt. This means that some of the steps
-> described below might be modified as lessons are learnt.*
+An assessment begins upon receiving a request from a government (or when receiving inputs and suggestions from a stakeholder), which is then considered by the Plenary. The procedure for receiving and prioritizing requests represents the first stage in defining a new work programme. It has taken place once so far, in order to define the first work programme of IPBES, for 2014-2018. A new call for requests will take place towards the end of each work programme. The first set of requests led the Plenary to carry out a set of thematic, methodological and regional assessments, as well as a global assessment.
+
+*Note: The mechanism described in the following section was used for the production of the first work programme. The Plenary may decide, when building the second IPBES work programme, to make a number of adjustments based on lessons learnt. This means that some of the steps described below might be modified as lessons are learnt.*
 
 2.1.1 Requests by members and observers
 
-> The first stage in the IPBES assessment process is for requests,
+The first stage in the IPBES assessment process is for requests,
 > inputs and suggestions to be submitted to the IPBES Secretariat no
 > later than six months before an IPBES Plenary.[^1] Submissions should
 > include information on:
