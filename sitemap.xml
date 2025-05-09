@@ -1,43 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/todos.html</loc>
-    <lastmod>2025-05-09T10:01:43.769Z</lastmod>
+    <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/howto_guide.html</loc>
+    <lastmod>2025-05-09T12:48:20.937Z</lastmod>
   </url>
   <url>
     <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/about.html</loc>
-    <lastmod>2025-05-09T10:01:43.723Z</lastmod>
+    <lastmod>2025-05-09T12:48:20.914Z</lastmod>
   </url>
   <url>
-    <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/Stage_1.html</loc>
-    <lastmod>2025-05-09T10:01:43.723Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/Stage_3.html</loc>
-    <lastmod>2025-05-09T10:01:43.723Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/Introduction.html</loc>
-    <lastmod>2025-05-09T10:01:43.722Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/Final text - IPBES guide for assessments - M.NS18.6.html</loc>
-    <lastmod>2025-05-09T10:01:43.722Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/Complete.html</loc>
-    <lastmod>2025-05-09T10:01:43.721Z</lastmod>
+    <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/Background.html</loc>
+    <lastmod>2025-05-09T12:48:20.912Z</lastmod>
   </url>
   <url>
     <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/Stage_4.html</loc>
-    <lastmod>2025-05-09T10:01:43.723Z</lastmod>
+    <lastmod>2025-05-09T12:48:20.914Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/Final text - IPBES guide for assessments - M.NS18.6.html</loc>
+    <lastmod>2025-05-09T12:48:20.913Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/Stage_3.html</loc>
+    <lastmod>2025-05-09T12:48:20.914Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/Stage_1.html</loc>
+    <lastmod>2025-05-09T12:48:20.913Z</lastmod>
   </url>
   <url>
     <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/Stage_2.html</loc>
-    <lastmod>2025-05-09T10:01:43.723Z</lastmod>
+    <lastmod>2025-05-09T12:48:20.914Z</lastmod>
   </url>
   <url>
     <loc>https://IPBES-Data.github.io/IPBES_guide_assessment_production/index.html</loc>
-    <lastmod>2025-05-09T10:01:43.769Z</lastmod>
+    <lastmod>2025-05-09T12:48:20.959Z</lastmod>
   </url>
 </urlset>
