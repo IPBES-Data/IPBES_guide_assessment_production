@@ -1,14 +1,16 @@
+# Deploy to gh-pages
+# 1. render using quarto
+# 2. publish to gh-pages
+
 on:
   workflow_dispatch:
   push:
     branches: main
-  pull_request:
 
 name: Quarto Publish
 
 jobs:
   build-deploy:
-    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -25,16 +27,3 @@ jobs:
           target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  build-test:
-    if: github.event_name == 'pull_request'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-
-      - name: Render site (Test only)
-        run: quarto render
