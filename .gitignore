@@ -1,3 +1,84 @@
+##########################
+### macOS Specific files
+#########################
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon and metadata files
+Icon?
+._*
+
+# macOS Finder settings
+.Spotlight-V100
+.Trashes
+
+# macOS folder attributes
+.DS_Store
+
+##########################
+### Windows Specific files
+##########################
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Windows file attribute cache
+$RECYCLE.BIN/
+
+# VS Code settings (if you use it)
+.vscode/
+
+##########################
+### Linux Specific files
+##########################
+
+# Linux file system metadata (usually external drives)
+.Trash-*
+
+# KDE or GNOME metadata
+.directory
+
+
+##########################
+### IDE Specific files
+##########################
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# RStudio
+.Rproj.user/
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio Connect folder
+rsconnect/
+
+# Positron (successor to RStudio)
+.positron/
+*.positron
+
+# JetBrains IDEs (optional)
+.idea/
+
+# Emacs & Vim
+*~
+*#
+.#*
+
+
+##########################
+### R Specific files
+##########################
+
 # History files
 .Rhistory
 .Rapp.history
@@ -18,15 +99,18 @@
 # Output files from R CMD check
 /*.Rcheck/
 
-# RStudio files
-.Rproj.user/
-
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
 
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
-.httr-oauth
+# R Environment Variables
+.Renviron
+
+
+
+##########################
+### Quarto Specific files
+##########################
 
 # knitr and R markdown default cache directories
 *_cache/
@@ -36,28 +120,32 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
-# R Environment Variables
-.Renviron
-
-# pkgdown site
-docs/
-
-# translation temp files
-po/*~
-
-# RStudio Connect folder
-rsconnect/
-
 # Quarto build output
 /_site/
 _site/
 */_site/
 *.qmd.ipynb
 
+# quarto cache and build artifact folder
+/.quarto/
+
+##########################
+### Other Specific files
+##########################
+
+
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# translation temp files
+po/*~
+
+# pkgdown site
+docs/
 
 # doc Folder
 doc/*
-/.quarto/
 
 doc/*
 md/
