@@ -1,9 +1,12 @@
 ---
-title: "Expert evaluation of the state of knowledge"
-format: html
+title: "The IPBES Guide on the production of assessments"
+subtitle: "Expert evaluation of the state of knowledge"
+format:
+  html:
+    number-sections: true
 ---
 
-# 1. Nomination of experts by members and observers, and selection by the MEP
+## Nomination of experts by members and observers, and selection by the MEP
 
 The Rules of Procedure for IPBES set out the nomination process for the different roles within an IPBES assessment (see IPBES/2/17 and decision IPBES-4/3)^[IPBES/2/17: Final report and decisions of the second session of the Plenary of IPBES. <https://www.ipbes.net/document-library-catalogue/ipbes217>. Decision IPBES-4/3: Rules and procedures for the operation of the platform. <https://www.ipbes.net/document-library-catalogue/decision-ipbes-43>] and are summarized in Table 1. The chair of IPBES, following the Plenary which requested the undertaking of an assessment, issues a call for nominations, explaining some of the requirements, particularly in terms of disciplines to cover all chapters of the assessment. Governments and observers are invited to nominate independent experts and fellows. From the nominations received, the MEP will select the report co-chairs, coordinating lead authors (CLA), lead authors (LA) and review editors (RE). The MEP will take the following into consideration when making these selections:
 
@@ -698,11 +701,11 @@ The suggestions below are based on comments received during the Millennium Ecosy
 
 :::
 
-# 2 Conflicts of interest
+## Conflicts of interest
 
 IPBES has put in place conflict of interest policy and implementation procedures to ensure that attention is paid to issues of independence and bias in order for there to be public confidence in the product and processes of IPBES.^[<https://www.ipbes.net/conflict-interest-policy-implementation-procedures>] IPBES defines conflicts of interest and bias as any circumstances that could lead a reasonable person to either question an individual's objectivity or believe an unfair advantage has been created. The policy further sets out the difference between conflicts of interest and bias along with rules on how the policy should be applied when including the Committee of Conflicts of Interest. Within an IPBES assessment, all co-chairs, CLAs, LAs, REs, fellows and TSU members must sign a conflict of interest form.
 
-# 3 Assessment by experts
+## Assessment by experts
 
 A majority of IPBES assessments will be undertaken over three years (see Figure 2.3) and the timeline for each assessment is agreed by the Plenary as part of the acceptance of the scoping report for the
 assessment.
@@ -973,7 +976,7 @@ height="8.729166666666666in"}
 |             |              | wording.                               |
 +-------------+--------------+----------------------------------------+
 
-# 4 Peer review process
+## Peer review process
 
 Within an IPBES assessment there are two external review processes:
 
@@ -996,7 +999,7 @@ pages and lines of the text and can be dealt with in an efficient manner.
 ![cid:BEEEA707-B80E-4341-8E3B-BF017448D6DA@home](images/Stage_2/media/image2.jpeg){width="6.825694444444444in"
 height="4.426388888888889in"}
 
-# 5 Developing executive summaries for chapters of an assessment report
+## Developing executive summaries for chapters of an assessment report
 
 An executive summary is, in principle, located at the start of each chapter to outline its key findings.
 
@@ -1038,11 +1041,11 @@ As a guideline, each chapter should preferably aim for an executive summary of u
 
 :::
 
-# 6 Using confidence terms
+## Using confidence terms
 
 When we talk about confidence in assessments in relation to knowledge, we are referring to how assured experts are about the findings (data and information) presented within their chapters. Low confidence describes a situation where we have incomplete knowledge and therefore cannot fully explain an outcome or reliably predict a future outcome, whereas high confidence conveys that we have extensive knowledge and are able to explain an outcome or predict a future outcome with much greater certainty.
 
-## 6.1 Why does our communication of confidence matter in IPBES assessments?
+### Why does our communication of confidence matter in IPBES assessments?
 
 Knowledge and scientific data about the natural world and the influence of human activities are complex. There is a need to communicate what the assessment author teams have high confidence in as well as what requires further investigation to allow decision-makers to make informed decisions. Furthermore, by following a common approach when applying confidence terminology within an assessment, authors are able to increase consistency and transparency.
 
@@ -1054,7 +1057,7 @@ Confidence terms should always be used in two key parts of an assessment:
 1. They should be assigned to the key findings in the **executive summaries** of the technical chapters in an assessment report (see Box 2.2), and
 2. For both key messages and key findings of the SPMs (see Box 2.3).
 
-## 6.2 How to do I select confidence terms?
+### How to do I select confidence terms?
 
 Once the author team has identified the chapter's key messages and findings, in order to present these in the **executive summary** or **SPM**, it is mandatory to evaluate the quality and quantity of associated evidence and scientific agreement. Author teams will always be required to make qualitative **assessments** of confidence based on expert estimates of agreements and evidence.
 
@@ -1062,7 +1065,7 @@ Depending on the nature of the evidence supporting the key message or finding, *
 
 It is not mandatory to apply confidence terms throughout the main text of the assessment report. However, in some parts of the main text, in areas where there are a range of views that need to be described, confidence terms may be applied where considered appropriate by the author team. In order to avoid confusing readers, in no case should the terms be used colloquially or casually. Use these terms if you have followed the recommended steps for assessing confidence.
 
-## 6.3 Qualitative assessment of confidence
+### Qualitative assessment of confidence
 
 This section discusses the process and language that all author teams must apply to evaluate and communicate confidence qualitatively. The following factors should be considered to evaluate the validity of the message or finding: the type, quantity, quality and consistency of evidence (the existing peer‑reviewed literature and grey literature, etc.), as well as the level of agreement (the level of concurrence in the data, literature and amongst experts, not just across the author team). The author team's expert judgement on the level of evidence and agreement should then be used to apply a confidence term as described in Figure 2.4:
 
@@ -1098,7 +1101,7 @@ Be aware of the tendency for a group to converge on an expressed view and become
 
 It is important to carefully consider how the sentences in the key messages and findings are structured because it will influence the clarity with which we communicate our understanding of the level of confidence. For example, sometimes the key finding combines an element that is ***well-established*** with one that is ***established but incomplete***. In this case it can be helpful to arrange the phrasing so that the ***well-established*** element comes first and the ***established but incomplete*** element comes second, or as a separate sentence. Avoid the use of ***unresolved*** and ***established but incomplete*** where possible by writing or rewording key messages and findings in terms of what is known rather than unknown. Author teams should focus on presenting what is ***well-established*** as far as possible in order to make it clear to decision-makers what is known. Assigning confidence terms to our key findings will therefore often require that we re-write sentences, rather than simply adding the terms to existing text.
 
-## 6.4 Quantitative assessment of confidence
+### Quantitative assessment of confidence
 
 This section discusses the process and language that author teams may wish to apply in order to evaluate and communicate the confidence that an outcome will occur quantitatively. Likelihood expresses a probabilistic estimate of the occurrence of a single event or of an outcome within a given range. Probabilistic estimates are based on statistical analyses of observations or model results, or both, combined with expert judgment.
 
@@ -1121,7 +1124,7 @@ Author teams should be aware of the way in which key messages and findings are p
 
 Finally, author teams should try not to avoid controversial events, such as impacts or events with high consequence but extremely low probability, in their effort to achieve consensus within an author team.
 
-## 6.5 How to present confidence terms:presenting confidence using the four-box model
+### How to present confidence terms:presenting confidence using the four-box model
 
 Confidence terms are communicated as part of the key findings of an assessment. The key findings are set out in the **executive summaries** for each of the assessment's chapters in the full technical report. The key findings are the facts and information drawn directly from the chapter. It is recommended that key findings should be set out as follows.
 
@@ -1129,11 +1132,11 @@ Confidence terms are communicated as part of the key findings of an assessment. 
 
 The words that make up the four-box model and likelihood scale should [not]{.underline} be used in the text of the assessment except when formally assigning confidence. If, for example, there was a sentence that used the word "likely" but not with the intended meaning from the likelihood scale, then the word should be replaced with another (e.g., probably).
 
-## 6.6 Presenting confidence using the likelihood scale
+### Presenting confidence using the likelihood scale
 
 In some instances, author teams may wish to complement the use of the ***well-established*** confidence term with a term from the likelihood scale. If terms from the likelihood scale are used then they should be incorporated into the text and italicized prior to the impact or outcome of the probability of which they are describing.
 
-## 6.7 Traceability
+### Traceability
 
 The author team's expert judgment of their confidence in the key messages and findings should be explained by providing a clear traceable account. A traceable account is a description in the chapter of the evaluation of the type, quantity, quality and consistency of the evidence and level of agreement that forms the basis for the given key message or finding (Mastrandrea et al. 2010). Where possible, the description should identify and discuss the sources of confidence. In order to ensure consistency in how the author teams classify sources of confidence within and across IPBES assessments, author teams should use the typology shown in Table 2.5.
 
@@ -1141,7 +1144,7 @@ A main finding in the **summary for policymakers** should be readily traceable b
 
 References to the relevant **executive summary** statement in the SPM should be included in curly brackets (e.g., {1.2}), see Box 2.2.
 
-## 6.8 Summary of the steps for applying confidence terms
+### Summary of the steps for applying confidence terms
 
 The steps recommended for assessing and communicating confidence for executive summaries and SPMs is as follows:
 
@@ -1284,9 +1287,9 @@ The steps recommended for assessing and communicating confidence for executive s
 |             | of well-being.       |              |                 |
 +-------------+----------------------+--------------+-----------------+
 
-# 7 Developing a summary for policymakers
+## Developing a summary for policymakers
 
-## 7.1 What is a summary for policymakers?
+### What is a summary for policymakers?
 
 A summary for policymakers (SPM) is a short document that highlights the main messages of an assessment responding to its scoping report in a synthesized and less technical language, and tailored to the needs of policymakers. It consists of preferably 15-20 top key messages (2,000 words max) categorized under a few headings and presented without reference to the main chapters. They represent the highest level of synthesis of the assessment and may be structured differently from the set of main findings in the SPM. Each message is carefully formulated in a bolded sentence with assigned confidence levels and is supported by a paragraph of non-bolded text which substantiates the message (see Box 2.4).
 
@@ -1334,7 +1337,7 @@ Important points to recognize from the Pollination Assessment SPM:
 - In the context of IPBES, **policy support tools and methodologies** may be defined as approaches based on science and other knowledge systems that can inform, assist and enhance relevant decisions, policymaking and implementation at local, national, regional and global levels in order to protect nature, thereby promoting nature's contributions to people and a good quality of life (IPBES core glossary).^[The policy support tools and methodologies guidance is under development and may modify this section.]
 - Assessments may identify and assess the availability, effectiveness, practicability and replicability of current and emerging policy support tools and methodologies, as well as identify related gaps and needs^[IPBES/6/INF/16: Information on work related to policy support tools and methodologies <https://www.ipbes.net/system/tdf/ipbes-6-inf-16\_-\_re-issued.pdf?file=1&type=node&id=16529>]
 
-## 7.2 Steps to developing an SPM
+### Steps to developing an SPM
 
 *Step 1: Developing executive summaries*
 The first step in developing an SPM is the development of an executive summary for each chapter. The executive summaries set out the key findings with the appropriate confidence terms for a particular chapter (see section 2.2.6.8 for further guidance on applying confidence terms). The content of the executive summary should be technical in nature and based on the analysis set out in the chapter.

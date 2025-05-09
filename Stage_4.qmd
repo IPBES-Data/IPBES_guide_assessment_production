@@ -1,9 +1,12 @@
 ---
-title: "Stage 4: Use of the assessment findings"
-format: html
+title: "The IPBES Guide on the production of assessments"
+subtitle: "Stage 4: Use of the assessment findings"
+format:
+  html:
+    number-sections: true
 ---
 
-# 1 Outreach and support for use
+## Outreach and support for use
 
 The release of the assessment report, including the front matter (preface), the SPM, the chapters and the back matter (annexes), is supported by a communication strategy. The communication strategy will be developed by the assessment management committee and approved by the Bureau. The aim of the communication strategy is to ensure that the assessment results are appropriately communicated and that they reach the target audiences.
 

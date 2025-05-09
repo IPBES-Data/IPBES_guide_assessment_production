@@ -1,14 +1,10 @@
 ---
 title: "The IPBES Guide on the production of assessments"
-subtitle: "Core version"
+subtitle: "Background"
+format:
+  html:
+    number-sections: true
 ---
-
-# Acronyms / glossary
-# List of Boxes
-# List of Figures
-# List of Tables
-
-# References
 
 # Introduction to IPBES
 
@@ -87,41 +83,9 @@ The Principles further include: facilitating an interdisciplinary and multidisci
 - Information and data management plan 
 - Strategic partnerships 
 - Stakeholder engagement and outreach
-
 :::
 
-## How to use this Guide
-
-**This Assessment Guide is aimed at those who are involved in an IPBES assessment, such as co‑chairs, authors, review editors and members of the technical support units (TSUs).** The core part of the Guide sets out the four stages of an IPBES assessment and their different steps. It then sets out the roles and responsibilities of the different actors involved in an assessment. Additionally, guidance is provided on developing an SPM and on using confidence terms. The Guide is supported by a series of modules (see Box 1.2), which contain further information for those involved in IPBES assessments, and other resources such as webinars, e-learning modules, and the IPBES Catalogue for Policy Support Tools and Methodologies (see Box 1.3).
-
-:::{.boxed}
-<div class="boxed-title" id="box1-3">Box 1.2: Modules of the IPBES Assessment Guide</div>
-
-- **A: *Addressing conceptual issues*** – the IPBES Conceptual Framework, IPBES terrestrial and aquatic units of analysis, and the IPBES Classification of Nature’s Contributions to People.  
-- **B: *Use of methodologies in assessments*** – conceptualising values, scenarios and models, and indigenous and local knowledge systems.  
-- **C: *Identifying and assessing data, information and knowledge resources and gaps*** – data and indicators.  
-- **D: *Enhancing the utility of assessments for decision-makers and practitioners*** – policy support tools and methodologies, methodological guidance for assessing policy support tools and methodologies/instruments within an IPBES assessment.  
-- **E: *Approaches to undertaking a government review***.  
-- **F: *Strengthening capacities in the science-policy interface*** – how to address capacity building in assessments.  
-- **G: *Undertaking a national ecosystem assessment***.  
-- **H: *IPBES core glossary.***
-:::
-
-Within each of the modules, assessment practitioners can find information around concepts, recommended practical steps and key resources, as well as guidelines, plans, strategies and approaches. When the modules become available, they can be downloaded individually from: <https://www.ipbes.net/deliverables/2a-assessment-integration>. This Guide, including the supporting modules, is considered a living document. It will be updated periodically to reflect the ongoing work on the Platform with new modules and sub-modules being added as required. Therefore, users are recommended to always ensure that they have the latest version of the Guide, which is downloadable from the IPBES website.
-
-::: {.boxed}
-<div class="boxed-title" id="box1-3">Box 1.3: Other key IPBES resources</div>
-
-- **IPBES e-learning modules**: These cover different aspects of assessments and support the development of capacity. These can be accessed from the IPBES website: [https://www.ipbes.net/e-learning](https://www.ipbes.net/e-learning)
-
-- **IPBES webinar series:** This webinar series covers different aspects of the assessment process, as well as the assessments themselves. [Webinars](https://www.ipbes.net/webinars) can be downloaded from the IPBES website: [https://www.ipbes.net/webinars](https://www.ipbes.net/webinars)
-
-- **IPBES Guide for Conceptualising Values:** This Guide contains further information on the identification and conceptualization of different values and complements the sub-module of the Assessment Guide. It can be accessed from the IPBES website: [www.ipbes.net/guidance-and-conceptual-framework](http://www.ipbes.net/guidance-and-conceptual-framework) (IPBES/3/INF/7).[^6]
-
-- **IPBES Catalogue for Policy Support Tools and Methodologies**: This contains information regarding a range of policy support tools and methodologies, and policy instruments. The **IPBES Catalogue of Assessments** brings together information on and experiences gained from undertaking assessments of biodiversity and ecosystem services, from the global to sub-national scale, and forms a component of this Catalogue. It can be accessed from the IPBES website: [https://www.ipbes.net/policy-support](https://www.ipbes.net/policy-support)
-:::
-
-# 2. The IPBES assessment process
+# The IPBES assessment process
 
 An IPBES assessment report is the result of a staged process designed to
 produce an enhanced understanding of knowledge needs and policy

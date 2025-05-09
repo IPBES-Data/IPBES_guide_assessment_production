@@ -1,15 +1,19 @@
 ---
-title: "Stage 3: Approval/acceptance"
-format: html
+title: "The IPBES Guide on the production of assessments"
+subtitle: "Stage 3: Approval/acceptance"
+format:
+  html:
+    number-sections: true
+
 ---
 
 **The draft SPM and chapters** are presented by the secretariat to the Plenary for its consideration. Governments are given the opportunity to submit written comments to the secretariat prior to the Plenary. These comments assist the assessment experts in preparing for the Plenary but do not result in a revised draft.
 
-# 1 Acceptance of reports by the Plenary
+## Acceptance of reports by the Plenary
 
 An assessment report is comprised of an SPM, which the Plenary will approve line by line, and a set of chapters (sometimes referred to as the technical report), which only the Plenary will accept. Governments are given the opportunity to submit written comments to the secretariat prior to the Plenary (8-2 weeks before). These comments assist the assessment experts in preparing for the Plenary but do not result in a revised draft. The set of chapters presented by the secretariat to the Plenary are prepared and reviewed as discussed above. While the large volume and technical detail of this material places practical limitations upon the extent to which changes to the reports can be made at the Plenary sessions, 'acceptance' signifies the view of the Plenary that this purpose has been achieved. The content of the chapters is the responsibility of the coordinating lead authors and is subject to Plenary 'acceptance'. After 'acceptance' by the Plenary, chapters are edited by the authors to reflect the changes made by the Plenary to the SPM, and thus ensure full consistency between the SPM and the underlying chapters and their executive summaries. Reports accepted by the Plenary will then be formally and prominently described on the front, and on other introductory covers, as a report accepted by IPBES.
 
-# 2 Approval of SPM by the Plenary
+## Approval of SPM by the Plenary
 
 The SPMs are normally discussed line by line in a contact group.^[Contact groups co-chaired by Bureau members may be established by the Plenary to address issues raised and to revise the SPMs accordingly for further consideration by the Plenary (IPBES/4/19, p.7).] It is then presented to the Plenary for consideration and approval in the presence of the co-chairs and some of the experts of the assessment, who will be able to address the questions of the Plenary and discuss whether proposed changes are compatible with the science contained in the report. Sessions of the Plenary where SPMs are being discussed are open to observers but are closed to the media, including social media.
 

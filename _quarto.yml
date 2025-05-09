@@ -6,23 +6,26 @@ website:
   title: "The IPBES Guide on the production of assessments"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - text: TODOs
-        file: todos.qmd
       - about.qmd
-      - text: Introduction
-        file: Introduction.qmd
+      - text: How to Use this Guide
+        file: howto_guide.qmd
+      - text: Background
+        file: Background.qmd
       - text: "Stage 1"
         file: Stage_1.qmd
       - text: "Stage 2"
-        file: Stage_2.qmd
+        menu:
+          - text: "Before Assessment Start"
+            file: Stage_2.qmd
+          - text: "Researcher During Assessment"
+            file: Stage_2.qmd
+          - text: "Reviewer"
+            file: Stage_2.qmd
       - text: "Stage 3"
         file: Stage_3.qmd
       - text: "Stage 4"
         file: Stage_4.qmd
-      - text: "Complete"
-        file: Complete.qmd
+
 format:
   html:
     theme:

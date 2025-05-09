@@ -8,12 +8,14 @@ Add some basic info here on:
 - How to use it
 - How to contribute?
 
-and other introduct=ory asopects.
+and other introductory asopects.
 
 # The IPBES Guide on the production of assessments
-## [Introduction](introduction.html)
-## [Stage 1: Requests and scope](stage_1.html)
-## [Stage 2: Expert evaluation of the state of knowledge](stage_2.html)
-## [Stage 3: Approval/acceptance](stage_3.html)
-## [Stage 4: Use of the assessment findings](stage_4.html)
+## [Background](Background.html)
+## [Stage 1: Requests and scope](Stage_1.html)
+## [Stage 2: Expert evaluation of the state of knowledge](Stage_2.html)
+## [Stage 3: Approval/acceptance](Stage_3.html)
+## [Stage 4: Use of the assessment findings](Stage_4.html)
 
+# Issues and ToDos
+For a list of outstanding issues, see the [Issue Tracker](https://github.com/IPBES-Data/IPBES_guide_assessment_production/issues){target="_blank"}
