@@ -129,11 +129,25 @@ _site/
 # quarto cache and build artifact folder
 /.quarto/
 
+
+##########################
+### Temporary Word and Excel files
+##########################
+
+# Temporary "lock" files
+~$*.doc*
+~$*.xls*
+
+# temp or backup formats
+*.tmp
+*.bak
+*.wbk
+*.asd
+
+
 ##########################
 ### Other Specific files
 ##########################
-
-
 
 # OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
 .httr-oauth
